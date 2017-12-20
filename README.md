@@ -2,7 +2,7 @@
 ## CS4563 - Final Project
 
 ##### Table of Contents  
-* [Problem Formulation](#Problem Formulation)
+* [Problem Formulation](#### Problem Formulation)
 
 
 ### Problem Formulation
