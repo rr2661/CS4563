@@ -18,6 +18,7 @@ Limitations: False complaints, crimes that go unreported
 ### Past Solutions
 
 ### Solution
+
 Accuracy rate ~20%. Only uses location, date, and time information from past complaints.
 
 ### Evaluation
