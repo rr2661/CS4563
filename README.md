@@ -51,5 +51,11 @@ Given the accuracy rate of past solutions this accuracy might be acceptable. It 
 
 Note: This project used NY data, the other sources used SF data.
 
+In hindsight:
+- I should have built this project on top of one of those SF solutions so that I take theirs further.
+- I should have condensed my classes down into a more manageable amount. Looking at the confusion matrix you can see that certain classes are magnets for misclassification. If we reduced the amount of classes down that would reduce the misclassification down and it would also allow us to look at trends. 
+* Like why are violent crimes misclassified as theft a lot?
+ -> It commonly occurs in this region -> further improvement
+
 ### Presentation
 [Presentation](ML_Presentation.pdf)
