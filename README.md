@@ -1,5 +1,4 @@
-# In Progress
-## CS4563 - Final Project
+# CS4563 - Final Project
 
 ## Table of Contents  
 * [Problem Formulation](#problem-formulation)
