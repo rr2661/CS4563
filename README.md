@@ -1,6 +1,14 @@
 # In Progress
 ## CS4563 - Final Project
 
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
+
+
 ### Problem Formulation
 Data:	NYPD Complaint Data 2006 - October 2017
 
