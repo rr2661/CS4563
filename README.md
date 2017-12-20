@@ -22,11 +22,9 @@ Their metric for success was not with accuracy like my project but with the 'mul
 I have found two sources that performed the same problem and returned their accuracy:
 
 * https://www.kaggle.com/nitinvijay23/predict-the-crime-category-knn-logistic/notebook
-
 This source used the 'K-nearest neighbor algorithm' to receive an accuracy of 22.7%.
 
 * http://cs229.stanford.edu/proj2015/254_report.pdf
-
 This source was not part of that competitions but did act on the very same problem as the competition. They tried a number of different tests (many not learned in this class), cross referenced other data, and got an accuracy of 39%.
 
 Both sources had ~30 classes.
