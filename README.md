@@ -1,7 +1,7 @@
 # In Progress
 ## CS4563 - Final Project
 
-#### Table of Contents  
+## Table of Contents  
 * [Problem Formulation](#problem-formulation)
 * [Past Solutions](#past-solutions)
 * [Solution](#solution)
