@@ -40,6 +40,8 @@ Both sources had ~30 classes.
 ### Solution
 [Notebook](Crime_Project.ipynb)
 
+(Code in part 3 is heavily derived from lab 6)
+
 Data for 2006-2017: 5 million records.
 
 Data for this year: 300,000 records.
