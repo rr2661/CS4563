@@ -1,3 +1,3 @@
 # CS4563
-## Presentation [a relative link] (ML Presentation.pdf)
+## [Presentation](ML_Presentation.pdf)
 ## [Solution](Crime_Project.ipynb)
