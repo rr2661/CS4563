@@ -7,8 +7,9 @@ Goal: 	To find the risk of being at a certain place and time.
 
 Machine learning problem: 
 If a crime is to occur at a certain time and place, what type of crime will it be (assault, robbery, etc.)
-> Given: Date, Time, Location 
-> Predict: Crime Type (Classification)
+
+Given: Date, Time, Location
+Predict: Crime Type (Classification)
 
 Limitations: False complaints, crimes that go unreported
 
