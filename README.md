@@ -6,6 +6,7 @@
 
 ### Problem Formulation
 Data:	NYPD Complaint Data 2006- October 2017
+
 Goal: 	To find the risk of being at a certain place and time.
 
 Machine learning problem: 
