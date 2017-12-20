@@ -1,4 +1,4 @@
-#Documentation Inprogress
+# Documentation writing is still in progress
 ## CS4563 - Final Project
 
 ### Problem Formulation
