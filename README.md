@@ -1,5 +1,4 @@
-# Documentation writing is still in progress
-## CS4563 - Final Project
+# CS4563 - Final Project
 
 ### Problem Formulation
 Data:	NYPD Complaint Data 2006 - October 2017
