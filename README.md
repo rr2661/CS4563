@@ -33,10 +33,13 @@ It is worth noting that the two sources above had ~30 classes.
 [Solution](Crime_Project.ipynb)
 
 Data for 2006-2017: 5 million records.
+
 Data for this year: 300,000 records.
 
 SVM Classification on 20% of this years data, around 70,000 records.
+
 Accuracy rate ~20%. 
+
 Around 80 classes (Type of crimes)
 
 Only uses location, date, and time information from past complaints.
