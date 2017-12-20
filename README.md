@@ -38,7 +38,7 @@ This source was not part of that competitions but did act on the very same probl
 Both sources had ~30 classes.
 
 ### Solution
-[Solution](Crime_Project.ipynb)
+[Notebook](Crime_Project.ipynb)
 
 Data for 2006-2017: 5 million records.
 
