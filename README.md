@@ -19,10 +19,10 @@ Limitations: False complaints, crimes that go unreported
 ### Past Solutions
 
 ### Solution
-
+[Solution](Crime_Project.ipynb)
 Accuracy rate ~20%. Only uses location, date, and time information from past complaints.
 
 ### Evaluation
 
 ### Presentation
-    [Presentation](ML_Presentation.pdf)
+[Presentation](ML_Presentation.pdf)
