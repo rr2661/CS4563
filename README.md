@@ -49,7 +49,7 @@ Only uses location, date, and time information from past complaints.
 
 Given the accuracy rate of past solutions this accuracy might be acceptable. It is worth noting that they had considerably less classes so it would probably be benefitial to condense the amount of classes. By combining similar classes together one can get a higher accuracy with a slight loss to classification specificity.
 
-Note: It is also worth noting that this project used NY data not SF data like the other sources did.
+Note: This project used NY data, the other sources used SF data.
 
 ### Presentation
 [Presentation](ML_Presentation.pdf)
