@@ -2,7 +2,7 @@
 ## CS4563 - Final Project
 
 ### Problem Formulation
-Data:	NYPD Complaint Data 2006- October 2017
+Data:	NYPD Complaint Data 2006 - October 2017
 
 Goal: 	To find the risk of being at a certain place and time.
 
@@ -22,12 +22,14 @@ Their metric for success was not with accuracy like my project but with the 'mul
 I have found two sources that performed the same problem and returned their accuracy:
 
 * https://www.kaggle.com/nitinvijay23/predict-the-crime-category-knn-logistic/notebook
+
 This source used the 'K-nearest neighbor algorithm' to receive an accuracy of 22.7%.
 
 * http://cs229.stanford.edu/proj2015/254_report.pdf
-This source was not part of that competitions but did act on the very same problem. They tried a number or different test and cross referenced other data and got an accuracy of 39%.
 
-It is worth noting that the two sources above had ~30 classes.
+This source was not part of that competitions but did act on the very same problem as the competition. They tried a number of different tests (many not learned in this class), cross referenced other data, and got an accuracy of 39%.
+
+Both sources had ~30 classes.
 
 ### Solution
 [Solution](Crime_Project.ipynb)
@@ -36,16 +38,20 @@ Data for 2006-2017: 5 million records.
 
 Data for this year: 300,000 records.
 
-SVM Classification on 20% of this years data, around 70,000 records.
+Solution used SVM Classification. Due to time constraints it was only run on 20% of this years data, which is around 70,000 records.
 
 Accuracy rate ~20%. 
 
-Around 80 classes (Type of crimes)
+Around 80 classes (Types of crime)
 
 Only uses location, date, and time information from past complaints.
-Given the accuracy rate of past solutions this accuracy might be acceptable. It is worth noting that they had considerably less classes so it would probably be benefitial to condense the amount of classes. By combining similar classes together one can get a higher accuracy at the with a slight loss to classification specificity.
+
 
 ### Evaluation
+
+Given the accuracy rate of past solutions this accuracy might be acceptable. It is worth noting that they had considerably less classes so it would probably be benefitial to condense the amount of classes. By combining similar classes together one can get a higher accuracy with a slight loss to classification specificity.
+
+Note: It is also worth noting that this project used NY data not SF data like the other sources did.
 
 ### Presentation
 [Presentation](ML_Presentation.pdf)
