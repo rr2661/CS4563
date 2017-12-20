@@ -59,6 +59,7 @@ In hindsight:
   - Monthly trends
   - Seasonal trends
   - More data on area trends
+- Maybe I should have started this project on the SF data. The NY data was not very clean and was ripe with typos and nans in weird areas. Looking at past solutions, the SF data seems to be cleaner and there were more results to compare to. If I had used the SF data instead I could have spent less time cleaning the data and more time predicting and analyzing results
 
 ### Presentation
 [Presentation given in class.](ML_Presentation.pdf)
