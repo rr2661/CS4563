@@ -2,15 +2,7 @@
 ## CS4563 - Final Project
 
 ##### Table of Contents  
-[Headers](#headers)  
-
-
-
-
-
-
-
-## Headers
+* [Problem Formulation](#Problem Formulation)
 
 
 ### Problem Formulation
