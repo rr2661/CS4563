@@ -3,6 +3,10 @@
 
 #### Table of Contents  
 * [Problem Formulation](#problem-formulation)
+* [Past Solutions](#past-solutions)
+* [Solution](#solution)
+* [Evaluation](#evaluation)
+* [Presentation](#presentation)
 
 
 ### Problem Formulation
@@ -17,8 +21,7 @@ If a crime is to occur at a certain time and place, what type of crime will it b
 * Predict: Crime Type (Classification)
 
 Limitations: False complaints, crimes that go unreported, etc.
-
-### Past Solutions
+Past Solutions
 There was a challenge issued at https://www.kaggle.com/c/sf-crime for a similar problem. Given date, time, and location information for San Francisco crimes predict the type of crime that occured.
 
 Their metric for success was not accuracy like my project but with the 'multi-class logarithmic loss'. This takes a list of probabilities for a classification and punishes the wrong ones. I used a hard classifier which makes it hard to compare results. Even still, their challenge got a lot of people to act on the same problem which leads to the sources below.
