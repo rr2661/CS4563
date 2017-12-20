@@ -53,9 +53,13 @@ Note: This project used NY data, the other sources used SF data.
 
 In hindsight:
 - I should have built this project on top of one of those SF solutions so that I take theirs further and ultimately hit a higher classfication rate.
-- I should have condensed my classes down into a more manageable amount. Looking at the confusion matrix you can see that certain classes are magnets for misclassification. If we reduced the amount of classes that would reduce the misclassification and it would also allow us to look at misclassification trends.
+- I should have condensed my classes down into a more manageable amount (This would be manual and would take some time). Looking at the confusion matrix you can see that certain classes are magnets for misclassification. If we reduced the amount of classes that would reduce the misclassification and it would also allow us to look at misclassification trends.
   - Like why are violent crimes misclassified as theft a lot?
  -> Misclassification commonly occurs in this region -> Further improvement.
+- I should have run the classification on the whole dataset. This would allow for a higher classification rate as the following would detected.
+  – Monthly trends
+  – Seasonal trends
+  – More data on area trends
 
 ### Presentation
 [Presentation](ML_Presentation.pdf)
