@@ -57,9 +57,9 @@ In hindsight:
   - Like why are violent crimes misclassified as theft a lot?
  -> Misclassification commonly occurs in this region -> Further improvement.
 - I should have run the classification on the whole dataset. This would allow for a higher classification rate as the following would detected.
-  – Monthly trends
-  – Seasonal trends
-  – More data on area trends
+  - Monthly trends
+  - Seasonal trends
+  - More data on area trends
 
 ### Presentation
 [Presentation](ML_Presentation.pdf)
