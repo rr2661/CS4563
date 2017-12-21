@@ -23,9 +23,9 @@ Limitations: False complaints, crimes that go unreported, etc.
 
 ### Past Solutions
 
-There was a challenge issued at https://www.kaggle.com/c/sf-crime for a similar problem. Given date, time, and location information for San Francisco crimes predict the type of crime that occurred.
+There was a challenge issued at https://www.kaggle.com/c/sf-crime for a similar problem. Given date, time, and location information for San Francisco crimes the challenge is to predict the type of crime that occurred.
 
-Their metric for success was not accuracy like my project but with the 'multi-class logarithmic loss'. This takes a list of probabilities for a classification and punishes the wrong ones. I used a hard classifier which makes it hard to compare results. Even still, their challenge got a lot of people to act on the same problem which leads to the sources below.
+Their metric for success was the 'multi-class logarithmic loss'. This takes a list of probabilities for a classification and punishes the wrong ones. I used a hard classifier and computed the accuracy of the classifications. This makes it hard to compare results. Even still, their challenge inspired a lot of people to act on the same problem which leads to the sources below.
 
 I have found two sources that performed the same problem and returned their accuracy:
 
@@ -48,17 +48,16 @@ Data for this year: 300,000 records.
 
 Solution used SVM Classification. Due to time constraints it was only run on 20% of this years data, which is around 70,000 records.
 
-Accuracy rate ~20%. 
-
-Around 80 classes (Types of crime)
-
-Only uses location, date, and time information from past complaints.
+Project Information:
+* Accuracy rate ~20%. 
+* Around 80 classes (Types of crime)
+* Uses location, date, and time information from past complaints.
 
 ### Evaluation
 
-Given the accuracy rate of past solutions this accuracy might be acceptable. It is worth noting that they had considerably less classes so it would probably be beneficial to condense the amount of classes. By combining similar classes together one can get a higher accuracy with a slight loss to classification specificity.
+Given the accuracy rate of past solutions, the accuracy of this project may be acceptable. It is worth noting that they had considerably less classes, so it would probably be beneficial to condense the amount of classes. By combining similar classes together, one can get a higher accuracy with a slight loss to classification specificity.
 
-Note: This project used NY data, the other sources used SF data.
+Note: This project used NYC data, the other sources used SF data.
 
 In hindsight:
 - I should have built this project on top of one of those SF solutions so that I take theirs further and ultimately hit a higher classification rate.
